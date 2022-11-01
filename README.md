@@ -1,7 +1,5 @@
 # GREYCORTEX Research DomAInt
 
-![DomAInt Brain](https://raw.githubusercontent.com/greycortex/DomAInt/rnn/img/brain.png)
-
 GREYCORTEX Research DomAInt is an open extension of Chrome and Firefox browsers, which classifies bad domains without sending your data anywhere. 
 
 It is the first browser add-on based on Artificial Intelligence, created as a toy based on white and black lists of our product Mendel and a 
